@@ -2,6 +2,13 @@
 
 所有可公开访问的项目网页统一放在 public/ 下，每个项目一个独立目录。私有原始资料、个人档案、密钥与构建缓存不放入本仓库。
 
+## 自定义域名
+
+- 项目首页：https://web.chenbao.fun/
+- 晚间课表：https://web.chenbao.fun/english-garden/
+- GitHub Pages继续作为源站，现有链接和自动发布流程保留。
+- 域名配置与维护说明：[cloudflare/chenbao-web-home](cloudflare/chenbao-web-home/)。
+
 ## 项目
 
 | 项目 | 文件夹 | Pages 地址 |

@@ -1,0 +1,9 @@
+{
+  "name": "chenbao-web-home",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-20",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": false,
+  "routes": [{"pattern": "web.chenbao.fun", "custom_domain": true}],
+  "observability": {"enabled": true, "head_sampling_rate": 0.1}
+}
