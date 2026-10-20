@@ -4,7 +4,7 @@
 
 ## 项目
 
-| 项目 | 文件夹 | 预期 Pages 地址（需发布成功后生效） |
+| 项目 | 文件夹 | Pages 地址 |
 | --- | --- | --- |
 | 小小英语花园 | [public/english-garden](public/english-garden/) | https://qingyu24.github.io/web/english-garden/ |
 
@@ -12,7 +12,7 @@
 
 Settings → Pages → Build and deployment → Source 选择 GitHub Actions。统一工作流只上传 public/，不会把仓库其他目录部署成网页。main 分支的 public/ 更新后自动发布，也可在 Actions 手动运行。
 
-Pages 统一入口预期为 https://qingyu24.github.io/web/，以工作流实际成功的部署记录为准。未配置Pages前，工作流会在配置步骤失败，不代表文件丢失。
+Pages 统一入口：https://qingyu24.github.io/web/ 。2026-10-20 发布成功，项目页面的移动端标题、七天标签和当日菜单已通过浏览器渲染检查。
 
 ## 后续新增项目
 
