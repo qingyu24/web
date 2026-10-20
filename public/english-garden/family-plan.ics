@@ -7,36 +7,37 @@ X-WR-CALNAME:家庭成长计划
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:english-garden-0-v3@qingyu24.github.io
-DTSTAMP:20261020T071500Z
+DTSTAMP:20261020T073123Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 RRULE:FREQ=WEEKLY;BYDAY=MO
-SUMMARY:家庭成长｜周一 小兔子与自然
+SUMMARY:家庭成长｜周一 小兔子与1—3积木
 DESCRIPTION:周一至周六执行，周日休息。全天菜单，不固
  定钟点。\n日常60分钟：游戏20＋动画20＋英文百科10＋
  英文共读10。\n扩展90分钟：游戏30＋动画30＋英文百科15
- ＋英文共读15。\n动画含英文约10分钟，其余为其他动画
- ；总屏幕20—30分钟。\n游戏：用英文大百科的动物图做
- 线索，找玩具或模仿动作；再自由走跳、搭积木。只穿
- 插5—10分钟英语，其余自由玩。\n英文百科：英文大百
- 科选动物或自然相关的几张图。先指图理解，再听英文
- 音频；与游戏使用同一主题，读图时间单独计。\n英文
- 共读：《I Am a Bunny》选2—4页，找小兔子和自然画面。
- 英文点读一句，大人指图或拿玩偶演一下，喜欢就重复
- 。\n儿歌与动画：本周两首熟歌中任选一首：SSS或彩虹
- 兔已有曲目，搭配简单英文动画，约10分钟。其余10／20
- 分钟按兴趣看中文《数字积木》或《汪汪队》。\n顺手
- 表达：Look! / A rabbit! / Your turn.\n累时缩短或暂停，不补
- 课。英文百科可做游戏和阅读，同一次活动不重复累计
- 。\n完整计划：https://qingyu24.github.io/web/english-garden/
+ ＋英文共读15。\n动画安排：英文儿歌／简单动画约10分
+ 钟；中文《数字积木》选介绍1—3的内容看1集，放在其
+ 余10／20分钟动画时段内，剩余可看熟悉内容。\n游戏安
+ 排：《数字积木》看后用1—3块积木搭小火车，一边拿
+ 一边数，给每节车厢放一个玩偶。再用英文百科动物图
+ 找玩具、模仿动作；全部包含在游戏20／30分钟内，英
+ 文只穿插5—10分钟。\n英文百科：英文大百科选动物或
+ 自然相关的几张图。先指图理解，再听英文音频；与游
+ 戏使用同一主题，读图时间单独计。\n英文共读：《I Am
+  a Bunny》选2—4页，找小兔子和自然画面。英文点读一
+ 句，大人指图或拿玩偶演一下，喜欢就重复。\n顺手表
+ 达：Look! / A rabbit! / Your turn.\n中文版数字积木用于数学
+ 兴趣，不计作英文接触；游戏与视频不额外加时。累时
+ 缩短，不追进度。\n完整计划：https://qingyu24.github.io/web/
+ english-garden/week.html
 URL:https://qingyu24.github.io/web/english-garden/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:english-garden-1-v3@qingyu24.github.io
-DTSTAMP:20261020T071500Z
+DTSTAMP:20261020T073123Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 RRULE:FREQ=WEEKLY;BYDAY=TU
@@ -44,57 +45,55 @@ SUMMARY:家庭成长｜周二 古力动作日
 DESCRIPTION:周一至周六执行，周日休息。全天菜单，不固
  定钟点。\n日常60分钟：游戏20＋动画20＋英文百科10＋
  英文共读10。\n扩展90分钟：游戏30＋动画30＋英文百科15
- ＋英文共读15。\n动画含英文约10分钟，其余为其他动画
- ；总屏幕20—30分钟。\n游戏：先看百科一组身体或生活
- 物品图，再找自己身上或家里的对应物；没有相应页就
- 换熟悉图片。配合走、停、轮流做动作。\n英文百科：
- 英文大百科选身体／生活主题几张图，点读后指出实物
- 。书中若无该主题，换一个已有主题。\n英文共读：《
- 古力小超人》12册中自选1册，只读能理解的几页；点读
- 一句、模仿一个动作。同一本可连续用几天。\n儿歌与
- 动画：本周两首熟歌中任选一首：SSS或彩虹兔已有曲目
- ，搭配简单英文动画，约10分钟。其余10／20分钟按兴趣
- 看中文《数字积木》或《汪汪队》。\n顺手表达：Walk. /
-  Stop! / My turn.\n累时缩短或暂停，不补课。英文百科可
- 做游戏和阅读，同一次活动不重复累计。\n完整计划：h
- ttps://qingyu24.github.io/web/english-garden/
+ ＋英文共读15。\n动画安排：英文儿歌／简单动画约10分
+ 钟；其余10／20分钟可选《汪汪队》或复看《数字积木
+ 》已看过的内容，不要求新增。\n游戏安排：先看百科
+ 一组身体或生活物品图，再找自己身上或家里的对应物
+ ；没有相应页就换熟悉图片。配合走、停、轮流做动作
+ 。\n英文百科：英文大百科选身体／生活主题几张图，
+ 点读后指出实物。书中若无该主题，换一个已有主题。
+ \n英文共读：《古力小超人》12册中自选1册，只读能理
+ 解的几页；点读一句、模仿一个动作。同一本可连续用
+ 几天。\n顺手表达：Walk. / Stop! / My turn.\n中文版数字积
+ 木用于数学兴趣，不计作英文接触；游戏与视频不额外
+ 加时。累时缩短，不追进度。\n完整计划：https://qingyu24
+ .github.io/web/english-garden/week.html
 URL:https://qingyu24.github.io/web/english-garden/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:english-garden-2-v3@qingyu24.github.io
-DTSTAMP:20261020T071500Z
+DTSTAMP:20261020T073123Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 RRULE:FREQ=WEEKLY;BYDAY=WE
-SUMMARY:家庭成长｜周三 唱童谣玩节奏
+SUMMARY:家庭成长｜周三 童谣与1—5积木
 DESCRIPTION:周一至周六执行，周日休息。全天菜单，不固
  定钟点。\n日常60分钟：游戏20＋动画20＋英文百科10＋
  英文共读10。\n扩展90分钟：游戏30＋动画30＋英文百科15
- ＋英文共读15。\n动画含英文约10分钟，其余为其他动画
- ；总屏幕20—30分钟。\n游戏：彩虹兔或SSS熟歌配拍手、
- 踏步、停住；把玩偶排队轮流唱。歌曲音频与游戏重叠
- 时只计游戏时长。\n英文百科：百科选一组熟悉图片，
- 点读、指图。中文只在需要时帮助理解；不要求每个词
- 都会说。\n英文共读：彩虹兔欢唱童谣第一季／辑选本
- 周熟歌，翻对应书页、听英文、做动作。和SSS轮换，不
- 必双份完成。\n儿歌与动画：本周两首熟歌中任选一首
- ：SSS或彩虹兔已有曲目，搭配简单英文动画，约10分钟
- 。其余10／20分钟按兴趣看中文《数字积木》或《汪汪
- 队》。\n顺手表达：Clap your hands. / Again?\n累时缩短或暂
- 停，不补课。英文百科可做游戏和阅读，同一次活动不
- 重复累计。\n完整计划：https://qingyu24.github.io/web/english-g
- arden/
+ ＋英文共读15。\n动画安排：英文儿歌／简单动画约10分
+ 钟；中文《数字积木》选介绍1—5中能理解的内容看1集
+ ，放在其余10／20分钟动画时段内。\n游戏安排：《数字
+ 积木》看后拿1—5块积木搭塔、比高矮；难时只玩1—3
+ 块，不考加减法。再配彩虹兔或SSS熟歌拍手、停住，全
+ 部包含在游戏20／30分钟内。\n英文百科：百科选一组熟
+ 悉图片，点读、指图。中文只在需要时帮助理解；不要
+ 求每个词都会说。\n英文共读：彩虹兔欢唱童谣第一季
+ ／辑选本周熟歌，翻对应书页、听英文、做动作。和SSS
+ 轮换，不必双份完成。\n顺手表达：Clap your hands. / Again?
+ \n中文版数字积木用于数学兴趣，不计作英文接触；游
+ 戏与视频不额外加时。累时缩短，不追进度。\n完整计
+ 划：https://qingyu24.github.io/web/english-garden/week.html
 URL:https://qingyu24.github.io/web/english-garden/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:english-garden-3-v3@qingyu24.github.io
-DTSTAMP:20261020T071500Z
+DTSTAMP:20261020T073123Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 RRULE:FREQ=WEEKLY;BYDAY=TH
@@ -102,29 +101,27 @@ SUMMARY:家庭成长｜周四 英文百科探索
 DESCRIPTION:周一至周六执行，周日休息。全天菜单，不固
  定钟点。\n日常60分钟：游戏20＋动画20＋英文百科10＋
  英文共读10。\n扩展90分钟：游戏30＋动画30＋英文百科15
- ＋英文共读15。\n动画含英文约10分钟，其余为其他动画
- ；总屏幕20—30分钟。\n游戏：百科寻宝：大人描述或指
- 一张图，宝宝找实物、玩具或另一张图。允许中文提示
- ，不做单词测验。\n英文百科：英文大百科几张图做细
- 看，找相同／不同或模仿。后面的主读仍可用同一套百
- 科，但换成英文共读玩法，时间不重复累计。\n英文共
- 读：英文大百科也作为主读：选一个感兴趣的小主题，
- 读几张图和简短配音；愿意时再翻《I Am a Bunny》旧页，
- 不增加总时长。\n儿歌与动画：本周两首熟歌中任选一
- 首：SSS或彩虹兔已有曲目，搭配简单英文动画，约10分
- 钟。其余10／20分钟按兴趣看中文《数字积木》或《汪
- 汪队》。\n顺手表达：Can you find it? / Here it is!\n累时缩
- 短或暂停，不补课。英文百科可做游戏和阅读，同一次
- 活动不重复累计。\n完整计划：https://qingyu24.github.io/web/
- english-garden/
+ ＋英文共读15。\n动画安排：英文儿歌／简单动画约10分
+ 钟；其余10／20分钟自由选熟悉中文动画。《数字积木
+ 》想看可复习，不追集数。\n游戏安排：百科寻宝：大
+ 人描述或指一张图，宝宝找实物、玩具或另一张图。允
+ 许中文提示，不做单词测验。\n英文百科：英文大百科
+ 几张图做细看，找相同／不同或模仿。后面的主读仍可
+ 用同一套百科，但换成英文共读玩法，时间不重复累计
+ 。\n英文共读：英文大百科也作为主读：选一个感兴趣
+ 的小主题，读几张图和简短配音；愿意时再翻《I Am a Bu
+ nny》旧页，不增加总时长。\n顺手表达：Can you find it? / 
+ Here it is!\n中文版数字积木用于数学兴趣，不计作英文
+ 接触；游戏与视频不额外加时。累时缩短，不追进度。
+ \n完整计划：https://qingyu24.github.io/web/english-garden/week.html
 URL:https://qingyu24.github.io/web/english-garden/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:english-garden-4-v3@qingyu24.github.io
-DTSTAMP:20261020T071500Z
+DTSTAMP:20261020T073123Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 RRULE:FREQ=WEEKLY;BYDAY=FR
@@ -132,51 +129,50 @@ SUMMARY:家庭成长｜周五 古力救援小剧场
 DESCRIPTION:周一至周六执行，周日休息。全天菜单，不固
  定钟点。\n日常60分钟：游戏20＋动画20＋英文百科10＋
  英文共读10。\n扩展90分钟：游戏30＋动画30＋英文百科15
- ＋英文共读15。\n动画含英文约10分钟，其余为其他动画
- ；总屏幕20—30分钟。\n游戏：玩偶被积木挡住，玩具车
- 来救援。用百科交通工具图片做出发提示，再自由搭建
- 救援路线。\n英文百科：百科选交通工具或宝宝喜欢的
- 已有主题，听英文、找玩具。没有对应页就用动物等熟
- 悉图片。\n英文共读：《古力小超人》复读本周喜欢的
- 一册。让玩偶也参与，宝宝可用中文、手势或英文回应
- 。\n儿歌与动画：本周两首熟歌中任选一首：SSS或彩虹
- 兔已有曲目，搭配简单英文动画，约10分钟。其余10／20
- 分钟按兴趣看中文《数字积木》或《汪汪队》。\n顺手
- 表达：Help! / Let’s go! / Thank you!\n累时缩短或暂停，不
- 补课。英文百科可做游戏和阅读，同一次活动不重复累
- 计。\n完整计划：https://qingyu24.github.io/web/english-garden/
+ ＋英文共读15。\n动画安排：英文儿歌／简单动画约10分
+ 钟；其余10／20分钟可选《汪汪队》配救援游戏，或复
+ 看熟悉的《数字积木》。\n游戏安排：玩偶被积木挡住
+ ，玩具车来救援。用百科交通工具图片做出发提示，再
+ 自由搭建救援路线。\n英文百科：百科选交通工具或宝
+ 宝喜欢的已有主题，听英文、找玩具。没有对应页就用
+ 动物等熟悉图片。\n英文共读：《古力小超人》复读本
+ 周喜欢的一册。让玩偶也参与，宝宝可用中文、手势或
+ 英文回应。\n顺手表达：Help! / Let’s go! / Thank you!\n中文
+ 版数字积木用于数学兴趣，不计作英文接触；游戏与视
+ 频不额外加时。累时缩短，不追进度。\n完整计划：http
+ s://qingyu24.github.io/web/english-garden/week.html
 URL:https://qingyu24.github.io/web/english-garden/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:english-garden-5-v3@qingyu24.github.io
-DTSTAMP:20261020T071500Z
+DTSTAMP:20261020T073123Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 RRULE:FREQ=WEEKLY;BYDAY=SA
-SUMMARY:家庭成长｜周六 自由选书与复习
+SUMMARY:家庭成长｜周六 积木复习与自由选书
 DESCRIPTION:周一至周六执行，周日休息。全天菜单，不固
  定钟点。\n日常60分钟：游戏20＋动画20＋英文百科10＋
  英文共读10。\n扩展90分钟：游戏30＋动画30＋英文百科15
- ＋英文共读15。\n动画含英文约10分钟，其余为其他动画
- ；总屏幕20—30分钟。\n游戏：宝宝在两个熟悉游戏中任
- 选一个：动物回家、百科找图、积木火车或玩偶救援。
- 重玩，不额外加新任务。\n英文百科：回看本周最喜欢
- 的一组百科图片；宝宝挑图，大人陪点读。没兴趣就换
- 熟悉英文绘本，不加时。\n英文共读：从《I Am a Bunny》
- 《古力小超人》或《小怪兽嘎吱》中自选一本。后者名
- 称与版本待核对，按实际英文内容或图片玩。\n儿歌与
- 动画：本周两首熟歌中任选一首：SSS或彩虹兔已有曲目
- ，搭配简单英文动画，约10分钟。其余10／20分钟按兴趣
- 看中文《数字积木》或《汪汪队》。\n顺手表达：Your tu
- rn. / Again? / All done.\n累时缩短或暂停，不补课。英文百
- 科可做游戏和阅读，同一次活动不重复累计。\n完整计
- 划：https://qingyu24.github.io/web/english-garden/
+ ＋英文共读15。\n动画安排：英文儿歌／简单动画约10分
+ 钟；中文《数字积木》复看本周喜欢的1集，放在其余10
+ ／20分钟动画时段内，不要求新进度。\n游戏安排：复
+ 习《数字积木》：宝宝选1—5块积木搭喜欢的东西，给
+ 玩偶分积木、搭车；不考数字认读。剩余游戏时间可选
+ 百科找图、动物回家或玩偶救援，包含在20／30分钟内
+ 。\n英文百科：回看本周最喜欢的一组百科图片；宝宝
+ 挑图，大人陪点读。没兴趣就换熟悉英文绘本，不加时
+ 。\n英文共读：从《I Am a Bunny》《古力小超人》或《小
+ 怪兽嘎吱》中自选一本。后者名称与版本待核对，按实
+ 际英文内容或图片玩。\n顺手表达：Your turn. / Again? / All
+  done.\n中文版数字积木用于数学兴趣，不计作英文接触
+ ；游戏与视频不额外加时。累时缩短，不追进度。\n完
+ 整计划：https://qingyu24.github.io/web/english-garden/week.html
 URL:https://qingyu24.github.io/web/english-garden/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 END:VCALENDAR
