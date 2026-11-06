@@ -28,3 +28,5 @@ jobs:
       - name: Deploy all public websites
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify mobile RPG Pages and custom domain
+        run: node cloudflare/chenbao-rpg/verify-public.mjs
