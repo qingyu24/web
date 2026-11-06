@@ -1,6 +1,6 @@
 # 公开项目与发布记忆
 
-更新：2026-10-20。本文件仅保存公开架构与维护约定，不保存家庭档案。
+更新：2026-11-06。本文件仅保存公开架构与维护约定，不保存家庭档案。
 
 ## 统一项目入口
 
@@ -40,3 +40,11 @@
 - 六个每周重复的全天VEVENT，周日不安排，具体钟点列在描述。保持既有UID、DTSTART/DTEND及RRULE，正常更新增加SEQUENCE、更新DTSTAMP。
 - 原订阅者无需更换地址；Outlook刷新可能延迟。文件导入是快照，不能作为自动更新的订阅来介绍。
 - 不在公开ICS存储家庭账号或私人行程，不声称已代用户完成账号订阅或邀请家人。
+
+## 雾灯归途
+
+- 游戏目录：public/mist-lantern/，2026-11-06 加入公共目录；源码 qingyu24/wx_game。
+- Pages：https://qingyu24.github.io/web/mist-lantern/；共用入口：https://web.chenbao.fun/mist-lantern/。
+- 独立手游入口：https://rpg.chenbao.fun/；Cloudflare Worker chenbao-rpg 将根路径映射到上述同一份 Pages 内容。源码和参数位于 cloudflare/chenbao-rpg/。
+- game.chenbao.fun 已用于其他项目，保持原样。
+- 构建后同步 wx_game/dist/ 到 public/mist-lantern/，保留 PWA 安装清单、sw.js 和美术资源。

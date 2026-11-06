@@ -1,0 +1,8 @@
+{
+  "service": "chenbao-rpg",
+  "hostname": "rpg.chenbao.fun",
+  "compatibility_date": "2026-11-06",
+  "main_module": "worker.mjs",
+  "observability": {"enabled": true, "head_sampling_rate": 0.1, "traces": {"enabled": true, "head_sampling_rate": 0.1}},
+  "origin": "https://qingyu24.github.io/web/mist-lantern/"
+}
